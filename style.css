@@ -1,0 +1,33 @@
+.box{
+    background-color: black;
+    height: 800px;
+    width: 800px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+body{
+    text-align: center;
+}
+.operands{
+    background-color: cadetblue;
+    height: 30%;
+    width: 100%;
+}
+.elements{
+    background-color: burlywood;
+    height: 30%;
+    width: 100%;
+}
+.display{
+    background-color: beige;
+    width: 80%;
+    height: 30%;
+    margin: 25px;
+    font-size: 2cm;
+}
+button{
+    height:38%;
+    width: 12%;
+}
