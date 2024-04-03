@@ -14,11 +14,13 @@ body{
     background-color: cadetblue;
     height: 30%;
     width: 100%;
+    font-size:1cm;
 }
 .elements{
     background-color: burlywood;
     height: 30%;
     width: 100%;
+    font-size: 1cm;
 }
 .display{
     background-color: beige;
